@@ -87,7 +87,7 @@ GPIO
 Text Label 2400 1900 0    60   ~ 0
 GPIO
 Text GLabel 1250 1700 0    60   Input ~ 0
-GPIO
+PWM0
 $Comp
 L LTV-356T U?
 U 1 1 584C61ED
